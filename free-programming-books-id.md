@@ -5,7 +5,6 @@
 * [HTML & CSS](#html-css)
 * [JavaScript](#javascript)
 * [PHP](#php)
-* [Python](#python)
 
 
 ### Android
@@ -16,7 +15,6 @@
 
 ### Git
 
-* [Kontrol Versi dengan Git](https://leanpub.com/kontrol-versi-git)
 * [Pro Git 1st Edition](https://git-scm.com/book/id/v1)
 
 
@@ -33,7 +31,7 @@
 
 ### Node.js
 
-* [Belajar Node.js](http://idjs.github.io/belajar-nodejs/)
+* [Belajar Node.js](http://idjs.github.io/belajar-nodejs/) 
 
 
 ### NoSQL
@@ -43,12 +41,4 @@
 
 ### PHP
 
-* [Tutorial Ebook PHP](http://www.ilmuwebsite.com/ebook-php-free-download)
-* [Tutorial PHP](http://www.codingku.com/php/)
-
-
-### Python
-
-* [Belajar Python](http://www.belajarpython.com)
-* [Database PostgreSQL, Pemrograman Python, dan SMS Gateway](http://rab.co.id/files/python/bukupython2.pdf.gz) - (PDF)
-* [Workshop Python 101](http://sakti.github.io/python101/)
+* [Tutorial Ebook PHP](http://www.4shared.com/rar/CtmMQ24E/Ebook_Tutorial_PHP.html)
